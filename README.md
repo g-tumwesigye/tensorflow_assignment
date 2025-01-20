@@ -8,7 +8,7 @@ TUMWESIGYE GEOFREY
 ![1](screenshot/contribute)
 
 ### 2. proof2
-![1](screenshot/colab)
+![2](screenshot/colab)
 
 # MNIST Handwritten Digit Classification
 
