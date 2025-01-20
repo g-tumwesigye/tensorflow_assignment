@@ -2,7 +2,13 @@
 KAMANZI SERGE AND 
 TUMWESIGYE GEOFREY
 
+## Screenshots
 
+### 1. proof1
+![1](screenshot/contribute)
+
+### 2. proof2
+![1](screenshot/colab)
 
 # MNIST Handwritten Digit Classification
 
