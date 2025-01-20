@@ -42,10 +42,6 @@ The model is a sequential neural network with the following layers:
 1. **Dense Layer**: 128 neurons, ReLU activation, input shape of 784.
 2. **Output Layer**: 10 neurons (one for each class), softmax activation.
 
-### Model Summary
-- Optimizer: Adam
-- Loss Function: Categorical Crossentropy
-- Metrics: Accuracy
 
 ## Training
 The model is trained using the `fit` method for 10 epochs with the following parameters:
@@ -94,8 +90,6 @@ The model was tested on unseen data and accurately classified digits. For exampl
 - Python 3.x
 - TensorFlow
 - NumPy
-- Matplotlib
-- Pandas
 
 To install the dependencies, run:
 ```bash
@@ -103,6 +97,4 @@ pip install tensorflow numpy matplotlib pandas
 ```
 
 ---
-
-Enjoy using this simple yet powerful MNIST classifier!
 
