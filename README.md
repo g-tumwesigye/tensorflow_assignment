@@ -5,10 +5,10 @@ TUMWESIGYE GEOFREY
 ## Screenshots
 
 ### proof1
-!(screenshot/contribute)
+![contribute](screenshot/contribute.png)
 
 ###  proof2
-!(screenshot/colab)
+![colab](screenshot/colab.png)
 
 # MNIST Handwritten Digit Classification
 
